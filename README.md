@@ -1,16 +1,3 @@
-# phonepe_app
+# Phone App UI Clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a clone of a typical mobile phone app's user interface, built using Flutter. The objective of this project is to create a functional and visually appealing UI that resembles the dialer, contacts, and recent calls features commonly found in modern phone apps.
